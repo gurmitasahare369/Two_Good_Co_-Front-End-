@@ -1,5 +1,7 @@
 # Two Good Co Website
 
+![TwoGoodCoView-ezgif com-speed](https://github.com/user-attachments/assets/ea516f8d-3d77-4df4-9896-ceec56e346f8)
+
 A modern, responsive website for Two Good Co showcasing their products and mission.
 
 ## Description
